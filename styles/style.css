@@ -60,7 +60,7 @@ nav ul{
     margin-right: 1em;
 }
 header{
-    background-image: url("/img/background.jpg");
+    background-image: url("../img/background.jpg");
     background-repeat: repeat-x;
     background-size: cover;
     height: 860px;
